@@ -4,7 +4,6 @@ weather = input("مقدار دماي هوا را وارد کنيد : ")
 #tabdil be int
 weather = int(weather)
 #1 block shart 
-import playsound3
 if weather >= 30 :
     print("هوا گرم است")
 elif weather >= 15 < 30 :
